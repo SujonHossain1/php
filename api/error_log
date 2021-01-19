@@ -1,0 +1,76 @@
+[06-Sep-2020 00:48:05 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:48:05 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:48:05 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:48:45 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:48:45 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:48:45 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:25 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:25 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:25 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:27 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:27 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:27 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:27 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:27 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:27 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:49:28 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:01 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:01 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:01 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:06 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:06 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:06 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:07 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:07 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:07 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:09 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:09 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:09 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:10 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:10 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:10 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:10 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:10 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:51:10 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/queendoh/public_html/api/rgister.php on line 3
+[06-Sep-2020 00:54:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/queendoh/public_html/api/rgister.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 08:05:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 20
+[06-Sep-2020 08:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 20
+[06-Sep-2020 13:44:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 13:44:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/queendoh/public_html/api/rgister.php on line 22
+[06-Sep-2020 13:44:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 13:44:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/queendoh/public_html/api/rgister.php on line 22
+[06-Sep-2020 13:46:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 13:46:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/queendoh/public_html/api/rgister.php on line 22
+[06-Sep-2020 13:47:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 13:47:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/queendoh/public_html/api/rgister.php on line 22
+[06-Sep-2020 13:47:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 31
+[06-Sep-2020 13:48:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 13:48:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/queendoh/public_html/api/rgister.php on line 22
+[06-Sep-2020 13:48:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 31
+[06-Sep-2020 13:48:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 18
+[06-Sep-2020 13:48:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/queendoh/public_html/api/rgister.php on line 22
+[06-Sep-2020 13:48:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/rgister.php on line 31
+[06-Sep-2020 22:34:39 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/order_info.php on line 21
+[07-Sep-2020 04:28:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/ordertest.php on line 25
+[07-Sep-2020 04:28:49 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/ordertest.php on line 27
+[07-Sep-2020 06:45:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/queendoh/public_html/api/orderproducttest.php on line 18
+[07-Sep-2020 06:46:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/queendoh/public_html/api/orderproducttest.php on line 18
+[07-Sep-2020 06:46:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/queendoh/public_html/api/orderproducttest.php on line 18
+[07-Sep-2020 06:46:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/queendoh/public_html/api/orderproducttest.php on line 18
+[22-Sep-2020 05:54:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/sproduct.php on line 6
+[22-Sep-2020 05:57:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/sproduct.php on line 7
+[22-Sep-2020 05:57:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/sproduct.php on line 7
+[22-Sep-2020 05:58:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/sproduct.php on line 7
+[22-Sep-2020 05:58:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/sproduct.php on line 7
+[22-Sep-2020 05:58:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/api/sproduct.php on line 7

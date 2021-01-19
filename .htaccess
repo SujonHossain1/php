@@ -1,0 +1,10 @@
+Header set Access-Control-Allow-Origin *
+RewriteEngine On
+RewriteRule \.(css|jpe?g|gif|png|js|ico)$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^products/(.*)$ product_details.php?slug=$1 [L]
+RewriteRule ^category/(.*)$ products.php?slug=$1&type=category [L]
+RewriteRule ^sub-category/(.*)$ products.php?slug=$1&type=sub_category [L]
+RewriteRule ^sub-sub-category/(.*)$ products.php?slug=$1&type=sub_sub_category [L]
+

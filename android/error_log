@@ -1,0 +1,46 @@
+[26-Aug-2020 04:30:06 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/queendoh/public_html/android/admin.php on line 14
+[26-Aug-2020 04:52:19 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/queendoh/public_html/android/admin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/queendoh/public_html/android/admin.php on line 17
+[26-Aug-2020 04:52:26 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/queendoh/public_html/android/admin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/queendoh/public_html/android/admin.php on line 17
+[26-Aug-2020 04:52:28 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/queendoh/public_html/android/admin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/queendoh/public_html/android/admin.php on line 17
+[26-Aug-2020 04:52:30 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/queendoh/public_html/android/admin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/queendoh/public_html/android/admin.php on line 17
+[26-Aug-2020 21:47:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/queendoh/public_html/android/categoryproduct.php on line 12
+[26-Aug-2020 21:47:27 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/queendoh/public_html/android/categoryproduct.php on line 12
+[26-Aug-2020 21:47:29 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/queendoh/public_html/android/categoryproduct.php on line 12
+[26-Aug-2020 21:47:45 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/queendoh/public_html/android/categoryproduct.php on line 12
+[07-Sep-2020 06:28:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/android/orderinfo.php on line 23
+[07-Sep-2020 06:28:25 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/android/orderinfo.php on line 25
+[07-Sep-2020 06:28:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/android/orderinfo.php on line 23
+[07-Sep-2020 06:28:30 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/android/orderinfo.php on line 25
+[07-Sep-2020 09:40:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/queendoh/public_html/android/orderproduct.php on line 9
+[08-Sep-2020 01:31:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/queendoh/public_html/android/subcategoryproduct.php on line 5
+[08-Sep-2020 01:31:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/queendoh/public_html/android/subcategoryproduct.php on line 5
+[08-Sep-2020 01:31:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/queendoh/public_html/android/subcategoryproduct.php on line 5
+[10-Nov-2020 17:10:06 UTC] PHP Warning:  file_put_contents(images/cat_img/1605028210615.JPG): failed to open stream: No such file or directory in /home/queendoh/public_html/android/upload.php on line 7
+[10-Nov-2020 17:10:26 UTC] PHP Warning:  file_put_contents(images/cat_img/1605028230980.JPG): failed to open stream: No such file or directory in /home/queendoh/public_html/android/upload.php on line 7
+[10-Nov-2020 18:12:47 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 9
+[10-Nov-2020 18:13:26 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 9
+[10-Nov-2020 18:16:42 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 9
+[10-Nov-2020 18:18:22 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:18:25 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:18:26 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:18:28 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:18:57 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:18:58 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:18:59 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:28:17 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:29:32 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:31:32 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[10-Nov-2020 18:31:34 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/queendoh/public_html/android/upload.php on line 10
+[17-Nov-2020 20:17:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/queendoh/public_html/android/register.php on line 43
